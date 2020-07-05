@@ -1,2 +1,2 @@
 # LeetCodeSubmissions
-All my LeetCode Submissions are here
+Find all my LeetCode Submissions here
